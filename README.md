@@ -1,5 +1,7 @@
 # Under Development
 
+[![Join the chat at https://gitter.im/course-boilerplate/Lobby](https://badges.gitter.im/course-boilerplate/Lobby.svg)](https://gitter.im/course-boilerplate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Very early in development. It doesn't work yet.
 
 ---
